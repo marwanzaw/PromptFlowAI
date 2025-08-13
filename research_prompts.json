@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Generate a research abstract",
+    "category": "Research",
+    "prompt": "Generate a concise, well-structured, and academically written abstract for a research paper on {topic}. Limit the length to 150–250 words. Ensure clarity, coherence, and a formal tone suitable for peer-reviewed publication.",
+    "example_topic": "The Impact of Artificial Intelligence on Healthcare"
+  },
+  {
+    "title": "Summarize a scientific article",
+    "category": "Research",
+    "prompt": "Summarize the main objectives, methodology, key findings, and conclusions of the following scientific article: {input}. Use a formal academic tone, avoid personal opinions, and limit the summary to 200–300 words.",
+    "example_input": "https://doi.org/10.1016/j.artmed.2023.102482"
+  },
+  {
+    "title": "Create a research introduction",
+    "category": "Research",
+    "prompt": "Write a comprehensive introduction section for a research paper on {topic}. Include the background, problem statement, research gap, and objectives. Maintain a clear, formal, and engaging academic style.",
+    "example_topic": "Climate Change Adaptation Strategies in Urban Areas"
+  },
+  {
+    "title": "Generate research questions",
+    "category": "Research",
+    "prompt": "Formulate 3–5 precise, clear, and researchable questions based on the topic: {topic}. Ensure they align with academic research standards and address significant gaps in the literature.",
+    "example_topic": "Blockchain Applications in Supply Chain Management"
+  },
+  {
+    "title": "Design a methodology section",
+    "category": "Research",
+    "prompt": "Write a detailed methodology section for a study on {topic}. Clearly describe the research design, participants or data sources, instruments or tools, data collection procedures, and analysis methods. Maintain a formal and structured academic tone.",
+    "example_topic": "Social Media Influence on Political Awareness"
+  },
+  {
+    "title": "Paraphrase academic paragraph",
+    "category": "Research",
+    "prompt": "Rephrase the following academic paragraph while preserving its technical accuracy and meaning: {input}. Ensure clarity, conciseness, and adherence to formal academic style.",
+    "example_input": "Artificial intelligence has transformed various industries, including healthcare, finance, and education, by enabling faster data analysis and improved decision-making processes."
+  },
+  {
+    "title": "Generate literature review prompts",
+    "category": "Research",
+    "prompt": "Create a well-defined prompt for summarizing literature on the topic: {topic}. Include relevant keywords, a defined timeline, theoretical framework, and key academic themes.",
+    "example_topic": "Renewable Energy Adoption in Developing Countries"
+  },
+  {
+    "title": "Generate a research conclusion",
+    "category": "Research",
+    "prompt": "Write a concise and well-structured conclusion section for a research paper on {topic}. Summarize the main findings, discuss their implications, highlight limitations, and suggest future research directions.",
+    "example_topic": "Effects of Remote Work on Employee Productivity"
+  },
+  {
+    "title": "Proofread and enhance research text",
+    "category": "Research",
+    "prompt": "Carefully proofread and improve the following academic text for grammar, spelling, clarity, and formal tone: {input}. Ensure the text meets the standards of scholarly writing.",
+    "example_input": "The research aims to investigates the impact of online learning platforms on student engagement, with focus on long-term retention."
+  },
+  {
+    "title": "Translate abstract to academic English",
+    "category": "Research",
+    "prompt": "Translate the following research abstract into clear, precise, and high-quality academic English: {input}. Ensure correct grammar, formal tone, and adherence to academic writing conventions.",
+    "example_input": "L'intelligenza artificiale viene sempre più utilizzata nella diagnostica medica, migliorando la precisione e riducendo i tempi di analisi."
+  }
+]
